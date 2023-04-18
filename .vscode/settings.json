@@ -1,0 +1,9 @@
+{
+    "tailwindCSS.classAttributes": [
+        "class",
+        "ngClass",
+        "className"
+    ],
+    "cSpell.diagnosticLevel": "Hint",
+    "git.ignoreLimitWarning": true
+}
